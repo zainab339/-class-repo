@@ -1,2 +1,4 @@
-Aldo 
-Version Control
+Kristian	
+Germany	
+Meta Front-End course
+
