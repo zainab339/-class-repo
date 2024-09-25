@@ -1,4 +1,3 @@
-Kristian	
-Germany	
-Meta Front-End course
+Zainab
+Meta Front-End Developer Professional Certificate
 
